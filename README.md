@@ -5,6 +5,7 @@
 ## Requirements
 - Neovim >= 9.0
 - Git latest version
+- Need LuaJIT
 
 ## Installation
 Add the code to your **$HOME/.config/init.lua**  
