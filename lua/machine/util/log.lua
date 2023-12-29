@@ -1,0 +1,3 @@
+local log = {}
+
+return log
